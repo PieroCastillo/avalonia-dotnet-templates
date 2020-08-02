@@ -1,0 +1,14 @@
+{
+    "author": "AvaloniaUI",
+    "classifications": [ "ui", "xaml", "library" ],
+    "description": "A project for creating a UI application that can run on .NET Core on Windows, Linux and macOS, iOS and Android",
+    "name": "Avalonia Controls Library",
+    "identity": "Avalonia.Library",
+    "shortName": "avalonia.lib",
+    "tags": {
+        "language": "C#",
+        "type" : "project"
+    },
+    "sourceName": "AvaloniaLibraryTemplate",
+    "preferNameDirectory" : "true"
+}
