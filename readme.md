@@ -24,6 +24,7 @@ ASP.NET Core Web App        mvc                  [C#], F#      Web/MVC
 ASP.NET Core Web API        webapi               [C#]          Web/WebAPI
 Avalonia .NET Core App      avalonia.app         [C#]          ui/xaml
 Avalonia .NET Core MVVM App avalonia.mvvm        [C#]          ui/xaml
+Avalonia Controls Library   avalonia.lib         [C#]          ui/xaml
 Avalonia UserControl        avalonia.usercontrol [C#]          ui/xaml
 Avalonia Window             avalonia.window      [C#]          ui/xaml
 Solution File               sln                                Solution
